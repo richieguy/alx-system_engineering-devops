@@ -1,1 +1,1 @@
-my scond readme
+Display the contents list of your current directory
